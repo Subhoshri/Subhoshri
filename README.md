@@ -30,6 +30,7 @@ I'm a First-year undergraduate student. My journey in the world of programming s
   <img src="https://img.shields.io/badge/Machine Learning-purple?style=for-the-badge" alt="Machine Learning Badge"/>
 </div> --->
 
+- [Linktree](https://linktr.ee/subhoshri)
 - [Email](subhoshripal@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/subhoshri-pal2005/)
 - [Codeforces](https://codeforces.com/profile/Subhoshripal)
