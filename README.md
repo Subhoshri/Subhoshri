@@ -6,7 +6,7 @@ Hey there! Welcome to my GitHub profile. I'm Subhoshri Pal, a college student pa
 
 ## About Me:
 
-I'm a First-year undergraduate student. My journey in the world of programming started two years ago, and since then, I've been hooked on crafting clean code and I am currently learning DSA and improving my C++. I have also immersed myself in getting familiar with web development using HTML and CSS. 
+I'm a Second-year undergraduate student. My journey into programming started three years ago, and since then, I've been hooked on crafting clean code. I am currently learning DSA and immersing myself in Deep Learning. I have also immersed myself in getting familiar with web development using HTML and CSS. 
 
 <br>
 <h2 align="center"> My Tech Stack </h2>
@@ -18,8 +18,7 @@ I'm a First-year undergraduate student. My journey in the world of programming s
 
 ## What You'll Find Here:
 
-- Projects: I am starting to work on fun projects that are part of my college club and also those that I take upon myself.
-- Coding Solutions: Solutions to coding contests and problems on Leetcode and Codeforces are updated by me regularly.
+- Projects: I am starting to work on fun projects that are part of my college club and those I take upon myself.
 - Contributions: I enjoy collaborating with others and contributing to open-source projects.
 
 ### Get in Touch:
