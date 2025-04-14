@@ -6,7 +6,7 @@ Hey there! Welcome to my GitHub profile. I'm Subhoshri Pal, a college student pa
 
 ## About Me:
 
-I'm a Second-year undergraduate student. My journey into programming started three years ago, and since then, I've been hooked on crafting clean code. I am currently learning DSA and immersing myself in Deep Learning. I have also immersed myself in getting familiar with web development using HTML and CSS. 
+I am a Second-Year Undergraduate student, genuinely passionate about using technology to create things that make a difference. I enjoy solving real world problems through hackathons and have a strong foundation in programming and Machine Learning. I also enjoy immersing myself in web development and currently experimenting with React. 
 
 <br>
 <h2 align="center"> My Tech Stack </h2>
@@ -34,7 +34,6 @@ I'm a Second-year undergraduate student. My journey into programming started thr
 - [LinkedIn](https://www.linkedin.com/in/subhoshri-pal2005/)
 - [Codeforces](https://codeforces.com/profile/Subhoshripal)
 - [LeetCode](https://leetcode.com/u/Cordelia720/)
-- [Codechef](https://www.codechef.com/users/subhoshripal)
 
 Feel free to reach out if you have any questions, or suggestions, or want to connect!
 
