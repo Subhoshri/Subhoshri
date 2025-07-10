@@ -2,24 +2,35 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnBqZm9zZjU3ZjQ3ZnFhNzQ3dXQyNnd6NHR5MnVsc2FndW5wbjVuZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="100"/>
 </div>
 <br>
-Hey there! Welcome to my GitHub profile. I'm Subhoshri Pal, a college student passionate about building cool stuff and solving interesting problems. This is where I showcase some of my projects in the software world.
+<h2 align="center">Hi there 👋 I'm Subhoshri Pal</h2>
+<p align="center">An IT undergrad curious about AI, Web Dev, and solving real-world problems through code.</p>
+
+---
 
 ## About Me:
 
-I am a Second-Year Undergraduate student, genuinely passionate about using technology to create things that make a difference. I enjoy solving real world problems through hackathons and have a strong foundation in programming and Machine Learning. I also enjoy immersing myself in web development and currently experimenting with React. 
+I'm a 3rd-year B.Tech student at IIEST Shibpur, passionate about building things that make tech more human and helpful.  
+Currently diving deeper into:
 
-<br>
+- Frontend development with **React**
+- Foundations of **Machine Learning**
+- Real-world projects & research through internships and open source
+
+I love solving challenges that blend logic and creativity, especially during hackathons and collaborative builds.
+
+---
 <h2 align="center"> My Tech Stack </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,html,css,js,react,git" />
   </a>
 </p>
 
 ## What You'll Find Here:
 
-- Projects: I am starting to work on fun projects that are part of my college club and those I take upon myself.
-- Contributions: I enjoy collaborating with others and contributing to open-source projects.
+- **Projects**: Solo, collaborative, and club-based builds
+- **Contributions**: I enjoy collaborating with others and contributing to open-source projects.
+- **Experiments**: Learning in public as I grow
 
 ### Get in Touch:
 
