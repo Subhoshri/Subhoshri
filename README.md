@@ -13,7 +13,7 @@ I'm a 3rd-year B.Tech student at IIEST Shibpur, passionate about building things
 Currently diving deeper into:
 
 - Frontend development with **React**
-- Foundations of **Machine Learning**
+- Advancing into **Machine Learning**
 - Real-world projects & research through internships and open source
 
 I love solving challenges that blend logic and creativity, especially during hackathons and collaborative builds.
@@ -40,7 +40,6 @@ I love solving challenges that blend logic and creativity, especially during hac
   <img src="https://img.shields.io/badge/Machine Learning-purple?style=for-the-badge" alt="Machine Learning Badge"/>
 </div> --->
 
-- [Linktree](https://linktr.ee/subhoshri)
 - [Email](subhoshripal@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/subhoshri-pal2005/)
 - [Codeforces](https://codeforces.com/profile/Subhoshripal)
@@ -48,8 +47,6 @@ I love solving challenges that blend logic and creativity, especially during hac
 
 Feel free to reach out if you have any questions, or suggestions, or want to connect!
 
-
-[![Subhoshri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Subhoshri&show_icons=true&theme=radical&rank_icon=github)](https://github.com/Subhoshri/github-readme-stats)
 
 <!---
 Subhoshri/Subhoshri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
