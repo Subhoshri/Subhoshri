@@ -9,7 +9,7 @@
 
 ## About Me:
 
-I'm a 3rd-year B.Tech student at IIEST Shibpur, passionate about building things that make tech more human and helpful.  
+I'm a 4th-year B.Tech student at IIEST Shibpur, passionate about building things that make tech more human and helpful.  
 Currently diving deeper into:
 
 - Frontend development with **React**
@@ -42,7 +42,6 @@ I love solving challenges that blend logic and creativity, especially during hac
 
 - [Email](subhoshripal@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/subhoshri-pal2005/)
-- [Codeforces](https://codeforces.com/profile/Subhoshripal)
 - [LeetCode](https://leetcode.com/u/Cordelia720/)
 
 Feel free to reach out if you have any questions, or suggestions, or want to connect!
